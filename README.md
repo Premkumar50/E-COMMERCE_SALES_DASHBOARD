@@ -23,14 +23,14 @@ The dashboard provides an interactive view of sales, profit, customers, products
 
 ## 📊 Key Performance Indicators (KPIs)
 
-| KPI | Value |
+KPI
 
-| Total Orders | 1,018 |
-| Total Sales | $1.301M |
-| Total Profit | $419K |
-| Total Customers | 1,018 |
-| Average Order Value | $1.28K |
-| Average Rating | 3.06 |
+Total Orders 
+Total Sales
+Total Profit 
+Total Customers
+Average Order Value
+Average Rating 
 
 
 ## 🧹 Data Preparation & Cleaning
