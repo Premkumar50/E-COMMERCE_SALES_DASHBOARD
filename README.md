@@ -25,12 +25,12 @@ The dashboard provides an interactive view of sales, profit, customers, products
 
 KPI
 
-Total Orders 
-Total Sales
-Total Profit 
-Total Customers
-Average Order Value
-Average Rating 
+- Total Orders 
+- Total Sales
+- Total Profit 
+- Total Customers
+- Average Order Value
+- Average Rating 
 
 
 ## 🧹 Data Preparation & Cleaning
