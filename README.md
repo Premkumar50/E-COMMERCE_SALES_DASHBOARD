@@ -78,5 +78,4 @@ The dashboard provides an interactive view of the data and includes:
 
 ## 🖼️ Dashboard Preview
 
-![E-Commerce Sales Dashboard](<img width="1867" height="702" alt="Screenshot 2026-09-21 221948" src="https://github.com/user-attachments/assets/a2355330-67c6-4006-ad3a-58e5214e3f1f" />
-)
+![E-Commerce Sales Dashboard](https://github.com/Premkumar50/E-COMMERCE_SALES_DASHBOARD/blob/main/Screenshot%202026-09-21%20221948.png)
