@@ -8,8 +8,8 @@ The main objective of this project is to transform raw e-commerce sales data int
 The dashboard provides an interactive view of sales, profit, customers, products, payment methods, order status, shipping modes, and state-wise sales performance.
 
 ## Dataset used
-- <a haref=" https://github.com/Premkumar50/E-COMMERCE_SALES_DASHBOARD/blob/main/Sales%20Raw%20Dataset.xlsm">Dataset</a>
-- <a haref=" https://github.com/Premkumar50/E-COMMERCE_SALES_DASHBOARD/commit/9977c3cc841cb10eaa756a4d038e9469bd9603a8">Dashboard</a>
+- <a haref="https://github.com/Premkumar50/E-COMMERCE_SALES_DASHBOARD/blob/main/Sales%20Raw%20Dataset.xlsm">Dataset</a>
+- <a haref="https://github.com/Premkumar50/E-COMMERCE_SALES_DASHBOARD/commit/9977c3cc841cb10eaa756a4d038e9469bd9603a8">Dashboard</a>
 
 ## 🎯 Project Objectives
 
